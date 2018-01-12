@@ -1,6 +1,6 @@
 #!/data/data/com.termux/files/usr/bin/bash
 # FB React Tools
-# by
+# by まやちゃん
 
 black='\033[1;30m'
 red='\033[1;31m'
@@ -16,7 +16,7 @@ echo -e $blue"   _______    ___               __  ";
 echo -e $blue"  / __/ _ )  / _ \___ ___ _____/ /_ ";
 echo -e $blue" / _// _ |  / , _/ -_) _  / __/ __/ ";
 echo -e $blue"/_/ /____/ /_/|_|\__/\_,_/\__/\__/ ";
-echo -e $red"                Tools by まやちゃん ";
+echo -e $red"              Modified by まやちゃん ";
 echo -e $green" Thanks to: ";
 echo -e $green" https://github.com/tomiashari/fb-autoreaction";
 echo -e $green" https://github.com/dfmcvn/getFBtoken ";
