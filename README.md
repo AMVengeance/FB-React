@@ -1,7 +1,7 @@
 
 # FB-React
 
-git clone it
-masuk direktori
-chmod 777 start
+git clone it <br>
+masuk direktori <br>
+chmod 777 start <br>
 ./start
