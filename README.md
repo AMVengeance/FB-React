@@ -1,2 +1,7 @@
+
 # FB-React
-just install it
+
+git clone it
+masuk direktori
+chmod 777 start
+./start
